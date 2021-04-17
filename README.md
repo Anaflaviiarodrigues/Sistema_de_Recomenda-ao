@@ -4,7 +4,7 @@
 
 Medium (Tutorial completo): https://tinyurl.com/yfbk7t85
  
-Notebook: 
+Notebook: https://tinyurl.com/5mj64ufx
 
 
 <p align="center">
