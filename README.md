@@ -1,7 +1,8 @@
-<h1 align="center">Sistema de Recomendação de filmes em Python</h1> 
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 Sistema de recomendação de filmes em Python </a>
+</h1>
 
-Medium (Tutorial completo):
-encurtador.com.br/ovIOY
+Medium (Tutorial completo): encurtador.com.br/ovIOY
  
 Notebook:
 
