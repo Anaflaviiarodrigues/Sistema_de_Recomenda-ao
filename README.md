@@ -4,7 +4,7 @@
 
 Medium (Tutorial completo): https://tinyurl.com/yfbk7t85
  
-Notebook: https://tinyurl.com/5mj64ufx
+Notebook: 
 
 
 <p align="center">
@@ -12,7 +12,7 @@ Notebook: https://tinyurl.com/5mj64ufx
 </p>
 
 Este projeto busca de maneira simples, demonstrar como funciona o algoritmo de recomendação de filmes em Python.
-Neste modelo vamos utilizar dados implícitos e explícitos, para realizar uma recomendação de filmes populares, filmes mais frequentes vistos juntos e também uma recomendação baseada nas similaridades entre os filmes.
+Neste modelo iremos utilizar dados implícitos e explícitos, para realizar uma recomendação de filmes populares, filmes mais frequentes vistos juntos e também uma recomendação baseada nas similaridades entre os filmes.
 
 
 <p align="center">
