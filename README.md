@@ -1,4 +1,4 @@
-# Sistema_de_Recomendaçao
+<h1 align="center">Sistema de Recomendação</h1> 
 
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 Breve Descrição</a>
@@ -7,6 +7,7 @@
 
 Este projeto busca de maneira simples, demonstrar como funciona o algoritmo de recomendação de filmes em Python.
 Neste modelo vamos utilizar dados implícitos e explícitos, para realizar uma recomendação de filmes populares, filmes mais frequentes vistos juntos e também uma recomendação baseada nas similaridades entre os filmes.
+
 O tutorial detalhado está disponível em: hhttps://medium.com/sistema-recomenda%C3%A7ao/construindo-um-sistema-de-recomenda%C3%A7%C3%A3o-de-filmes-em-python-9ac80c6058f
 
 ##Requerimentos
