@@ -2,7 +2,7 @@
     <a href="https://pt-br.reactjs.org/">🔗 Sistema de recomendação de filmes em Python </a>
 </h1>
 
-Medium (Tutorial completo): encurtador.com.br/ovIOY
+Medium (Tutorial completo): https://tinyurl.com/yfbk7t85
  
 Notebook:
 
