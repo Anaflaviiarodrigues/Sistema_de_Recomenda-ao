@@ -8,16 +8,11 @@ Notebook: https://tinyurl.com/band6598
 
 
 <p align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 Breve resumo </a>
+    <a href="https://pt-br.reactjs.org/">🔗 Breve descrição </a>
 </p>
 
 Este projeto busca de maneira simples, demonstrar como funciona o algoritmo de recomendação de filmes em Python.
 Neste modelo iremos utilizar dados implícitos e explícitos, para realizar uma recomendação de filmes populares, filmes mais frequentes vistos juntos e também uma recomendação baseada nas similaridades entre os filmes.
-
-
-<p align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 Requerimentos </a>
-</p>
 
 Este modelo foi escrito na linguagem Python, para a construção dessa base de dados e o desenvolvimento do modelo , foi utilizada as bibliotecas:
 
